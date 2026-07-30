@@ -50,17 +50,9 @@ echo "$USER_NAME:$USER_PASS" | chpasswd
 echo "[*] Membuat Banner Rapi untuk OpenSSH..."
 cat << 'EOF' > /etc/ssh/ssh_banner
 ==================================================
-              👑 SELAMAT MENIKMATI 👑  
-              <br>
-              SSH SERVER RAILWAY MOD              
+              🐸Selamat Menikmati🐸            
 ==================================================
- SPESIFIKASI:  
- <br>
- 🔹 MULTIPLEXER : GOLANG HIGH-SPEED CORE v3.2  
- <br>
- 🔹 OS PLATFORM : LINUX ALPINE (RAM MONSTER MODE)  
- <br>
- 🔹 SSH SERVICE : OPENSSH SERVER HIGH COMPAT      
+          ngatcheng-an🐍    
 ==================================================
           powered by : d e d e f a t h u          
 ==================================================
