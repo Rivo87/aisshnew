@@ -52,7 +52,9 @@ cat << 'EOF' > /etc/ssh/ssh_banner
 ==================================================<br>
             👑 SELAMAT MENIKMATI 👑  
               <br>
-              SSH SERVER RAILWAY MOD              
+              SSH SERVER RAILWAY MOD
+              <br>
+              فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
 ==================================================
  SPESIFIKASI:  
  <br>
