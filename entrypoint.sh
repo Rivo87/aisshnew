@@ -50,7 +50,7 @@ echo "$USER_NAME:$USER_PASS" | chpasswd
 echo "[*] Membuat Banner Rapi untuk OpenSSH..."
 cat << 'EOF' > /etc/ssh/ssh_banner
 ==================================================
-              👑 SELAMAT MENIKMATI 👑  
+               👑 SELAMAT MENIKMATI 👑  
               <br>
               SSH SERVER RAILWAY MOD              
 ==================================================
@@ -83,7 +83,7 @@ PrintMotd no
 AcceptEnv LANG LC_*
 Subsystem sftp /usr/lib/ssh/sftp-server
 Banner /etc/ssh/ssh_banner
-VersionAddendum tytydkuda_speed
+VersionAddendumtytydkuda_speed
 
 # 🛠 KUNCI UTAMA ANTI TIMEOUT:
 UseDNS no
