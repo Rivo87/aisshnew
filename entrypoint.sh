@@ -73,7 +73,7 @@ PrintMotd no
 AcceptEnv LANG LC_*
 Subsystem sftp /usr/lib/ssh/sftp-server
 Banner /etc/ssh/ssh_banner
-VersionAddendum [tytydkuda🚀]
+VersionAddendum بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
 # 🛠 KUNCI UTAMA ANTI TIMEOUT:
 UseDNS no
