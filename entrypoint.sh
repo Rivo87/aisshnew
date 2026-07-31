@@ -49,8 +49,8 @@ echo "$USER_NAME:$USER_PASS" | chpasswd
 
 echo "[*] Membuat Banner Rapi untuk OpenSSH..."
 cat << 'EOF' > /etc/ssh/ssh_banner
-==================================================
-               👑 SELAMAT MENIKMATI 👑  
+==================================================<br>
+            👑 SELAMAT MENIKMATI 👑  
               <br>
               SSH SERVER RAILWAY MOD              
 ==================================================
